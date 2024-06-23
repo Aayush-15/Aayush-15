@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="900" height="360" src="images/DALL·E 2024-05-04 17.49.56 - A close-up view of a serene outdoor workspace during evening, focusing on a laptop displaying code on its screen. The laptop is placed on a small wood.webp">
+<img align="center" alt="Coding" width="900" height="360" src="Github-Cover-Image.png">
 
 <h1 align="center">Hey 👋 ,  I'm Aayush Kansara</h1>
 I am a Software Engineer with several years of experience, currently pursuing a Master's in Computer Science at Arizona State University with a keen interest in the intersection of Software development and Artificial Intelligence. I am proficient in Python, Java, C, C++, JavaScript, TypeScript, .Net Core, C#, and Go. I have prior experience working as a backend developer and optimizing database performance. I thrive in environments that challenge me to learn and grow, and I'm always eager to explore new technologies and embrace innovative solutions to solve real-world problems.
