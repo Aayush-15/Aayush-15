@@ -9,7 +9,7 @@ I am a Software Engineer with several years of experience, currently pursuing a 
 
 ### 🚀 Join Forces on Projects
 I’m passionate about leveraging web technologies to create impactful solutions. If you're interested in developing innovative web applications, enhancing user experience, or integrating AI into web platforms, I’d love to collaborate! Reach out if you need a teammate for hackathons!
-- 📧 **Email:** [aayushkansara@gmail.com](mailto:aayushkansara@gmail.com)  
+- 📧 **Email:** [ayushkansara@gmail.com](mailto:ayushkansara@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/aayushkansara](https://www.linkedin.com/in/aayushkansara)  
 - 🐙 **GitHub:** [github.com/Aayush-15](https://github.com/Aayush-15)  
 - 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1OwU9gX0JCi32kMKPXMYw-AWxNdz9pnOA/view?usp=drive_link)  
