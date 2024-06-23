@@ -1,5 +1,4 @@
-<img align="center" alt="Coding" width="600" height="360" src="Git-Cover-Image-1.png
-">
+<img align="center" alt="Coding" width="600" height="360" src="Git-Cover-Image-1.png">
 
 <h1 align="center">Hey 👋 ,  I'm Aayush Kansara</h1>
 I am a Software Engineer with several years of experience, currently pursuing a Master's in Computer Science at Arizona State University with a keen interest in the intersection of Software development and Artificial Intelligence. I am proficient in Python, Java, C, C++, JavaScript, TypeScript, .Net Core, C#, and Go. I have prior experience working as a backend developer and optimizing database performance. I thrive in environments that challenge me to learn and grow, and I'm always eager to explore new technologies and embrace innovative solutions to solve real-world problems.
