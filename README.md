@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋 ,  I'm Aayush Kansara</h1>
 I am a Software Engineer with several years of experience, currently pursuing a Master's in Computer Science at Arizona State University with a keen interest in the intersection of Software development and Artificial Intelligence. I am proficient in Python, Java, C, C++, JavaScript, TypeScript, .Net Core, C#, and Go. I have prior experience working as a backend developer and optimizing database performance. I thrive in environments that challenge me to learn and grow, and I'm always eager to explore new technologies and embrace innovative solutions to solve real-world problems.
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Coding" width="350" src="">
 
 - 🎓 I’m currently pursuing a Master's in Computer Science from Arizona State University.
 
