@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coding" width="600" height="300" src="Github-Cover-Image.png">
+  <img alt="Coding" width="450" height="300" src="Github-Cover-Image.png">
 </div>
 
 <h1 align="center">Hey 👋 ,  I'm Aayush Kansara</h1>
