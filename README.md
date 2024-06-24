@@ -14,7 +14,7 @@ I am enthusiastic about utilizing web technologies to develop impactful solution
 - 📧 **Email:** [ayushkansara@gmail.com](mailto:ayushkansara@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/aayushkansara](https://www.linkedin.com/in/aayushkansara)  
 - 🐙 **GitHub:** [github.com/Aayush-15](https://github.com/Aayush-15)  
-- 📄 **Resume:** [View My Resume]([https://drive.google.com/file/d/1OwU9gX0JCi32kMKPXMYw-AWxNdz9pnOA/view?usp=drive_link](https://drive.google.com/file/d/1ycM6ufvS1WqUCgxhDK6cU3xr8Ks10yyS/view))
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1ycM6ufvS1WqUCgxhDK6cU3xr8Ks10yyS/view)
 
 ### 🔧 Technical Skills
 - **Languages**: Python, Java, C, C++, JavaScript, TypeScript, .Net Core, C#, Go
