@@ -11,24 +11,10 @@ I am a Software Engineer with several years of experience, currently pursuing a 
 
 ### 🤝 Let's Collaborate on Exciting Projects
 I am enthusiastic about utilizing web technologies to develop impactful solutions. Whether you're interested in building innovative web applications, enhancing user experiences, or integrating AI into web platforms, I am eager to collaborate! If you need a teammate for hackathons, let's connect!
-
-📧 Email: ayushkansara@gmail.com
-🔗 LinkedIn: linkedin.com/in/aayushkansara
-🐙 GitHub: github.com/Aayush-15
-📄 Resume: View My Resume
-
-💻 Technical Proficiencies
-Languages: Python, Java, C, C++, JavaScript, TypeScript, .NET Core, C#, Go
-Databases: MySQL, MongoDB, PostgreSQL, Redis
-Frameworks: Django, Spring Boot, Flask, FastAPI
-Libraries: TensorFlow, NumPy, Pandas, Sci-kit Learn, OpenCV
-Tools/Technologies: AWS, Docker, Kubernetes, Git, CI/CD, Linux/Unix
-
-
-
-
-
-
+- 📧 **Email:** [ayushkansara@gmail.com](mailto:ayushkansara@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/aayushkansara](https://www.linkedin.com/in/aayushkansara)  
+- 🐙 **GitHub:** [github.com/Aayush-15](https://github.com/Aayush-15)  
+- 📄 **Resume:** [View My Resume]([https://drive.google.com/file/d/1OwU9gX0JCi32kMKPXMYw-AWxNdz9pnOA/view?usp=drive_link](https://drive.google.com/file/d/1ycM6ufvS1WqUCgxhDK6cU3xr8Ks10yyS/view))
 
 ### 🔧 Technical Skills
 - **Languages**: Python, Java, C, C++, JavaScript, TypeScript, .Net Core, C#, Go
