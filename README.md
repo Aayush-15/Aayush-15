@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey 👋 ,  I'm Aayush </h1>
-I am a Software Engineer with several years of experience, currently pursuing a Master's in Computer Science at Arizona State University with a keen interest in the intersection of Software development and Artificial Intelligence. I am proficient in Python, Java, C, C++, JavaScript, TypeScript, .Net Core, C#, and Go. I have prior experience working as a backend developer and optimizing database performance, and also building Frontend Applications. I thrive in environments that challenge me to learn and grow, and I'm always eager to explore new technologies and embrace innovative solutions to solve real-world problems.
+I am a Software Engineer with  years of experience, currently pursuing a Master's in Computer Science at Arizona State University with a keen interest in the intersection of Software development and Artificial Intelligence. I am proficient in Python, Java, C, C++, JavaScript, TypeScript, .Net Core, C#, and Go. I have prior experience working as a backend developer and optimizing database performance, and also building Frontend Applications. I thrive in environments that challenge me to learn and grow, and I'm always eager to explore new technologies and embrace innovative solutions to solve real-world problems.
 <img align="right" alt="Coding" width="200" height="180" src="3d-rendering-kid-playing-digital-game.png">
 
 
@@ -40,20 +40,3 @@ I am enthusiastic about utilizing web technologies to develop impactful solution
     </td>
   </tr>
 </table>
-
-
-
-<!--
-**Aayush-15/Aayush-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
