@@ -1,0 +1,353 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,8pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{tikz}
+\usetikzlibrary{svg.path}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}
+    \vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    {\Huge \scshape Aayush Kansara} \\ \vspace{1pt}
+    
+    \small \raisebox{-0.1\height}\faPhone\ 586-519-0655 ~ \href{ayushkansara@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{ayushkansara@gmail.com}} ~ 
+    \href{https://www.linkedin.com/in/aayushkansara/}{\raisebox{-0.2\height}\faLinkedin\ \underline{https://www.linkedin.com/in/aayushkansara/}}  ~
+    \href{https://github.com/Aayush-15}{\raisebox{-0.2\height}\faGithub\ \underline{https://github.com/Aayush-15}}
+    \vspace{-8pt}
+    
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {MS in Computer Science - Arizona State University}{Jan 2024 -- Dec 2025}
+      {Coursework: Distributed Database Systems,Software Security, NLP, Operating Systems}{GPA:4/4}
+      % { Coursework: Distributed Database ,Software Security, Cloud Computing, Distributed Data, Data Mining, Machine Learning}
+  \resumeSubHeadingListEnd
+  % \vspace{-8pt}
+  % \resumeSubHeadingListStart
+  %   \resumeSubheading
+  %     {BTech in Computer Science - Nirma University}{May 2019 -- Apr 2023}
+  %     {Coursework: Operating Systems, Algorithms,Database Systems, NLP }{GPA: 3.75/4}
+  % \resumeSubHeadingListEnd
+  
+\vspace{-15pt}
+\section{Experience}
+  \resumeSubHeadingListStart
+  \resumeSubheading
+    {Amazon} {Aug 2025 - Nov 2025}
+     {Software Engineer Intern - Fall}{Seattle, WA}
+\resumeItemListStart
+
+\resumeItem{Built a scalable \textbf{Reconciliation Service} to compare capacity signals across distributed data sources, identifying mismatches and stale allocations before downstream procurement workflows, processing \textbf{120K+ records daily}.}
+
+\resumeItem{Designed an \textbf{event-driven architecture} with S3-triggered workflows to orchestrate reconciliation jobs, integrating internal \textbf{Amazon ticketing systems} with \textbf{rule-based validations} and alert thresholds to automatically generate remediation tickets, improving reporting accuracy by \textbf{30\%}.}
+
+
+
+
+
+     \resumeItemListEnd
+    \resumeSubheading
+    {Rocket Mortgage} {May 2025 - Aug 2025}
+     {Software Engineer Intern}{Detroit, MI}
+     \resumeItemListStart
+\resumeItem{Migrated microservices from {\bf AWS ECS to EKS} and implemented {\bf Istio for blue/green traffic management} and mTLS security, leveraging Kubernetes, Terraform, and Helm — improving deployment speed by ~50\% and API latency by ~33\%.}
+\resumeItem{Built self-service post-registration and non-agency product features in{\bf .NET 8 microservices} and Angular, using feature flags and reactive-form validation — reduced support requests by ~80\% and unlocked {\bf 246M in loan volume} opportunity.}
+\resumeItem {Engineered a  {\bf distributed multi-agent mortgage recommendation system} using Google Agent-to-Agent protocol, Gemini LLM, and Anthropic MCP, implementing async JSON-RPC orchestration that reduced latency by ~40\% and scaled to 100+ concurrent users in production-scale load tests.}
+
+     \resumeItemListEnd
+     \resumeSubheading
+      {Arizona State University}{June 2024 -- May 2025}
+      {Software Engineer }{Tempe, AZ}
+      \resumeItemListStart
+\resumeItem{Worked on {\bf Knowledge Alliance Tool}, a recommendation system for collaboration between non-profit organizations and academic faculties.  Implemented features like {\bf tagging, Subscription-Model} in React.js.}
+      \resumeItem{Designed and implemented scalable backend APIs using {\bf C\# (.Net Core)} and {\bf Go} including core functionalities including {\bf full-text search}, {\bf semantic search}, and {\bf subscription-based models}.Designed an \textbf{ETL + NLP pipeline} to ingest and clean faculty and Google Scholar data, implementing \textbf{FAISS-based vector search} to improve search relevance by \textbf{20\%}.}
+%             \resumeItem{Implemented full-text search with advanced semantic matching and ranking algorithms, improving retrieval accuracy,
+% relevance of recommendations, and overall user engagement by 40\%.}
+\resumeItem{Deployed a containerized service-oriented architecture on AWS EC2, and streamlined deployment workflows with CD pipelines reducing deployment time  by {\bf 30\%}.}
+
+
+
+        
+      \resumeItemListEnd
+      \resumeSubheading
+      {Kuhoo Technologies }{Jan 2023 -- Dec 2023}
+      {Software Engineer I (Jan–Apr 2023: Software Engineering Intern)}{Mumbai, India}
+
+      \resumeItemListStart
+\resumeItem{Led the development of the Decision Engine Microservice, designing APIs for {\bf Loan Processing and Loan Management}. Successfully integrated third-party APIs, resulted in a 25\% reduction in loan processing time and  15\% increase in credit accuracy.}
+\resumeItem{ Integrated payment gateways  {\bf Razorpay and Cashfree Payments} for Loan Repayment .Discovered and addressed {\bf IDOR} (Insecure Direct Object Reference) anomaly in the existing system.Implemented Field level security for all API.}
+\resumeItem{  Developed an Internal Python Library consolidating common functions across microservices, promoting code efficiency and standardization.Also used {\bf Amazon SQS} for Scheduler Service for File Upload And Running Chrone Jobs and Log Storage
+}
+% \resumeItem{Streamlined the provisioning and configuration of production servers by implementing automation with {\bf Puppet}, achieving consistent environment setups, {\bf reducing manual intervention by 40\%}, and significantly enhancing system reliability.}
+
+        % \resumeItem{Developed {\bf API monitoring and validation layer}, along with {\bf security modules (IPS/IDS), for SDN Controller backend microservices} in Django Rest Framework. Built infrastructure to streamline software development and testing.}
+        
+        
+      \resumeItemListEnd
+%       \resumeSubheading
+%       {Kuhoo Technologies }{Jan 2023 -- Apr 2023}
+%       {Software Engineer Intern}{Mumbai,India}
+%       \resumeItemListStart
+%       \resumeItem{Rearchitected the {\bf KYC microservice} to integrate HyperVerge and Digio as third party service Provider for KYC.}
+%       \resumeItem{Engineered a {\bf Kafka listener} for the System Alerts module, enhancing alert configuration changes and boosting efficiency of
+% alerting system by 40\%, enabling quicker response to alerts}
+%       \resumeItemListEnd
+    \resumeSubheading
+      {Quicko}{May 2022 -- Aug 2022}
+      {Software Engineer Intern}{Ahmedabad,India}
+      \resumeItemListStart
+\resumeItem{Developed {\bf dynamic Microsites and Product Pages} using Angularjs and Vuejs, enhancing customer experience and boosting product page traffic by 50\%. Deployed on {\bf AWS}, with notable webpages including: {\href{https://quicko.com/income-tax/meet}{\bf Quicko.com/meet}}, {\href{https://sandbox.co.in/}{\bf Sandbox}}, {\href{https://joinglyde.app/}{\bf Glyde}}. }
+
+
+\resumeItem{Worked On {\bf Tax Calculator APIs} for traders and salaried individuals, supporting features such as P\&L statements from various brokers, significantly enhancing the financial user experience and improving efficiency by 25\%.}
+
+        
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+\vspace{-13pt}
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \vspace{-4pt}
+    \resumeSubHeadingListStart
+      \vspace{-4pt}
+       \resumeProjectHeading
+          {\textbf{ AI Productivity Assistant- Hackathon \href{https://devpost.com/software/ai-productivity-assistant-l38mn5}{[Link]}
+} $|$ \emph{AWS Bedrock,AI Agents,Python, Lambda,React.js}}{Apr 2025 - Apr 2025}
+          \resumeItemListStart
+            \resumeItem{ Built DevilNet, an AI productivity assistant powered by {\bf AWS Bedrock Agents}, Lambda, and {\bf Google Workspace APIs} and {\bf Notion APIs} enabling users to manage Gmail and Calendar tasks via natural language commands. }
+            \resumeItem{Integrated {\bf Notion for real-time task syncing} and automated day planning, enabling the assistant to sync calendar events based on emails and Notion tasks.}
+% Designed and expanded a user-space TCP stack to support data segmentation, retransmissions, timers, and application-controlled shutdown, ensuring reliable and efficient communication. Successfully implemented reading operations while addressing retransmission challenges to prevent duplicate data.
+% Followed RFC 793, RFC 1122, and RFC 7414 for interoperability with real-world TCP stacks. Worked on enabling seamless three-way handshakes, clean connection teardown, and partial write functionality to improve data transfer reliability.
+
+
+
+
+
+
+
+            
+          \resumeItemListEnd
+            % \vspace{-12pt}
+%       \resumeProjectHeading
+%                     {\textbf{Distributed Key-Value Storage System with LFU Caching} $|$ \emph{C++, Distributed Database}}{Feb 2025 - Present}
+%           \resumeItemListStart
+%             \resumeItem{Engineered a {\bf scalable distributed key-value storage} system with a {\bf centralized load balancer and multiple read servers} using C++, enabling efficient read and write operations through consistent hashing and {\bf round-robin request distribution}.}
+% %             \resumeItem{Implemented {\bf dynamic scalability and high availability}, allowing seamless addition of new servers and ensuring data consistency across the network using broadcast write operations.
+% % {\bf Optimized latency and throughput by integrating LFU (Least Frequently Used)} caching at the load balancer, improving response times for read-heavy workloads.}
+          
+%           \resumeItemListEnd
+          % \resumeProjectHeading
+          %           {\textbf{Real-Time IoT Data Streaming and Distributed Systems} $|$ \emph{ Python,Kafka,Cassendra}}{Aug 2024 - Dec 2024}
+          % \resumeItemListStart
+          %   \resumeItem{Designed and implemented a {\bf real-time IoT data streaming platform}, integrating{\bf  Apache Kafka, Apache Cassandra}, and Flask to efficiently process, store, and analyze high-throughput sensor data with low-latency streaming.}
+          %   \resumeItem{Built a scalable, fault-tolerant distributed system, leveraging Kafka for streaming, Cassandra for {\bf time-series storage}, and a {\bf Load Balancer} for request distribution, ensuring high availability and reliability—key for real-time monitoring.}
+          
+          % \resumeItemListEnd
+
+          
+
+          
+        \vspace{-15pt}
+
+      % \resumeProjectHeading
+      %     {\textbf{Scalable Image Classifier } $|$ \emph{Go,Python, Aws,SQS,Terraform, AutoScaling  }}{Feb 2025 - Apr 2025}
+      %     \resumeItemListStart
+      %       \resumeItem{Designed a 3-tier web application on AWS to process and classify images, leveraging EC2 instances for hosting the application.} \resumeItem{Integrated {\bf Amazon S3} for image storage, {\bf SQS} for inter-tier communication, and CloudWatch for monitoring SQS metrics, triggering AutoScaling policies to dynamically scale application-tier resources based on workload demands. }
+      %       % \resumeItem{Conducted stress testing by deploying a multithreaded workload generator to simulate 500+ concurrent HTTP requests, ensuring high throughput and fault tolerance.}
+\resumeProjectHeading
+                    {\textbf{Distributed Key-Value Storage System with LFU Caching} $|$ \emph{Rust, Distributed Database,Networking}}{May 2024 - Jan 2025}
+          \resumeItemListStart
+            \resumeItem{Engineered a {\bf scalable distributed key-value storage} system with a {\bf centralized load balancer and multiple read servers} using Java, enabling efficient read and write operations through consistent hashing and {\bf round-robin request distribution}.}
+            \resumeItem{Implemented {\bf dynamic scalability and high availability}, allowing seamless addition of new servers and ensuring data consistency across the network using broadcast write operations.
+{\bf Optimized latency and throughput by integrating LFU (Least Frequently Used)} caching at the load balancer, improving response times for read-heavy workloads.}
+          
+
+            
+          \resumeItemListEnd
+            \vspace{-13pt}
+
+
+%             \resumeProjectHeading
+%           {\textbf{ Document Search Engine 
+% } $|$ \emph{Elastic Search, Python, Fast API, ML}}{May 2024- May 2024}
+%           \resumeItemListStart
+%             \resumeItem{ Developed SouLSearch, a {\bf file content semantic search engine} using Elastic Search, Python, Fast API, and Angular, integrating ML models like {\bf Vision Transformer GPT v2 for image captioning and MpNet v2 for text embeddings} to ensure fast and accurate results.Optimized search efficiency across diverse file formats. }
+% % Designed and expanded a user-space TCP stack to support data segmentation, retransmissions, timers, and application-controlled shutdown, ensuring reliable and efficient communication. Successfully implemented reading operations while addressing retransmission challenges to prevent duplicate data.
+% % Followed RFC 793, RFC 1122, and RFC 7414 for interoperability with real-world TCP stacks. Worked on enabling seamless three-way handshakes, clean connection teardown, and partial write functionality to improve data transfer reliability.
+
+
+
+
+
+
+
+            
+%           \resumeItemListEnd
+         
+    
+
+
+
+          
+    \resumeSubHeadingListEnd
+\vspace{-1pt}
+
+
+            
+
+%----------------Skills-Section-----------
+%-----------PROGRAMMING SKILLS-----------
+  \section{Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Java, Go,  C, C++, TypeScript, C\#,Python } \\ \vspace{2pt}
+     \textbf{Frameworks/Libraries}{: Django, SpringBoot, .Net Core, Flask, Pandas, NumPy, Wireshark} \\ \vspace{2pt}
+     \textbf{Developer Tools}{: MySQL, MongoDB, PostgreSQL, Amazon Web Services (AWS), Redis, Docker, Kubernetes}
+    }
+    }
+ \end{itemize}
+\vspace{-12pt}
+%----------------Skills-Section-----------
+
+     
+     
+
+
+\end{document}
+/*
+
+Architected and Deployed Scalable Image Classifier: Designed a 3-tier web application on AWS to process and classify images, leveraging EC2 instances for hosting the web and application tiers. Integrated Amazon S3 for image storage, SQS for inter-tier communication, and CloudWatch for monitoring SQS metrics, triggering AutoScaling policies to dynamically scale application-tier resources based on workload demands.
+
+Automated Infrastructure and Load Testing: Implemented infrastructure as code (IaC) using Terraform to provision AWS resources in the ap-south-1 region. Conducted system stress testing by deploying a multithreaded workload generator to simulate 100+ concurrent HTTP requests, ensuring high throughput and fault tolerance in the classification pipeline.
+
+
+
+
+
+
+
+*/
